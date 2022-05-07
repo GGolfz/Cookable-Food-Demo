@@ -1,0 +1,26 @@
+{
+  "1": [
+    {
+      "name": "salt",
+      "amount": 10
+    },
+    {
+      "name": "cheese",
+      "amount": 8
+    },
+    { "name": "fennel seeds", "amount": 4 },
+    { "name": "green olives", "amount": 4 },
+    { "name": "ripe olives", "amount": 3 },
+    { "name": "garlic", "amount": 3 },
+    { "name": "peppercorn", "amount": 2 },
+    { "name": "orange rind", "amount": 5 },
+    { "name": "orange juice", "amount": 3 },
+    { "name": "red chile", "amount": 3 },
+    { "name": "extra virgin olive oil", "amount": 1 },
+    { "name": "milk", "amount": 4 },
+    { "name": "vanilla ice cream", "amount": 5 },
+    { "name": "frozen apple juice concentrate", "amount": 5 },
+    { "name": "apple", "amount": 5 },
+    { "name": "clove oil", "amount": 5 }
+  ]
+}
